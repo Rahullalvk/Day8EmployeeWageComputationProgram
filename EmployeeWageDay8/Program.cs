@@ -12,6 +12,8 @@ namespace EmployeeWageDay8
         {
             EmployeeWage employeeWage = new EmployeeWage();
             employeeWage.EmployeeAttendence();
+
+
         }
     }
 }
